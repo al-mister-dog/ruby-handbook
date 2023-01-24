@@ -1,0 +1,41 @@
+03-01-23
+
+Hashes: {
+    basic: 
+    intermediate: 
+    advanced: 
+    challenge-1: 
+    challenge-2: 
+    challenge-3: 
+    challenge-4:
+}
+
+Arrays: {
+    basic: true
+    intermediate: true
+    advanced: true
+    challenge-1: true
+    challenge-2: true
+    challenge-3: true
+    challenge-4: true
+}
+
+Lambdas: {
+    basic:
+    intermediate:
+    advanced:
+    challenge-1:
+    challenge-2:
+    challenge-3:
+    challenge-4:
+}
+
+Procs: {
+    basic:
+    intermediate:
+    advanced:
+    challenge-1:
+    challenge-2:
+    challenge-3:
+    challenge-4:
+}
